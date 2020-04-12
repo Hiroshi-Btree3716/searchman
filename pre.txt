@@ -1,3 +1,5 @@
 tokyo
 
 oosaka
+nagoya
+fukooka
