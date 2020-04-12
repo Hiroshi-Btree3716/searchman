@@ -6,3 +6,4 @@ fukooka
 fukushima
 kosaishi
 静岡県湖西市新所6056-12
+nihonngo 日本語
